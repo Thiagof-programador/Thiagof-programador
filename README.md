@@ -22,6 +22,6 @@ Sou desenvolvedor Android, xharbour/Fivewin e apaixonado por tecnologia.
 - Scrum
 
 ## 📫 Entre em contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ferreira-costa-da-silva-b33892174/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 
