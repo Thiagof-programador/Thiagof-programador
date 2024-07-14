@@ -1,4 +1,4 @@
-# Olá, sou o Thiago ferreira 👨‍💻
+# Olá, sou o Thiago Ferreira 👨‍💻
 
 Sou desenvolvedor Android, xharbour/Fivewin e apaixonado por tecnologia.
 ## ⚡ Habilidades
