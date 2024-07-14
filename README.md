@@ -6,6 +6,7 @@ Sou desenvolvedor Android, xharbour/Fivewin e apaixonado por tecnologia.
 - Desenvolvimento Xharbour/Fivewin há mais de 10 anos
 - Banco de dados Mysql
 - Git e GitHub
+- Inglês intermediário
 
 ## ⚡Cursando mais habilidades
 
