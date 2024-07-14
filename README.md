@@ -1,9 +1,14 @@
 # Olá, sou o Thiago ferreira 👨‍💻
 
-Sou desenvolvedor Android e apaixonado por tecnologia.
-### 👀 Estou buscando uma vaga no momento 👀
-
+Sou desenvolvedor Android, xharbour/Fivewin e apaixonado por tecnologia.
 ## ⚡ Habilidades
+
+- Desenvolvimento Xharbour/Fivewin há mais de 10 anos
+- Banco de dados Mysql
+- Git e GitHub
+
+## ⚡Cursando mais habilidades
+
 - Desenvolvimento Android (Java e Kotlin)
 - Arquiteturas MVC, MVP, MVVM
 - Clean Architecture
@@ -11,7 +16,6 @@ Sou desenvolvedor Android e apaixonado por tecnologia.
 - APis com Retrofit, Coroutines
 - Service e Broadcast
 - SOLID
-- Git e GitHub
 - Firebase, SQLite e SQL
 - Jetpack (LiveData, DataBinding, ViewModel, Room, WorkManager, Navigation e Compose)
 - Testes unitários e de integração
