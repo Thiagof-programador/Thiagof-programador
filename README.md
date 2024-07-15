@@ -8,7 +8,7 @@ Sou desenvolvedor Android, xharbour/Fivewin e apaixonado por tecnologia.
 - Git e GitHub
 - Inglês intermediário
 
-## ⚡Cursando mais habilidades
+## ⚡Cursando 
 
 - Desenvolvimento Android (Java e Kotlin)
 - Arquiteturas MVC, MVP, MVVM
